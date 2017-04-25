@@ -1,7 +1,6 @@
 import { DISPLAY } from '../constants/display';
 
 import Cell from './cell';
-console.log(DISPLAY);
 
 /**
  * Display Class

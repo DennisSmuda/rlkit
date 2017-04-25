@@ -1,6 +1,6 @@
 
 export default class Arena {
   constructor() {
-    console.log("Butz Arena")
+    console.log('Butz Arena');
   }
 }
